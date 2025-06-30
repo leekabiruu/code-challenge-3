@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello Blog World",
+      "author": "Lee K.",
+      "image": "https://via.placeholder.com/600x300",
+      "date": "2024-01-01",
+      "content": "This is my first post in the blog. I'm testing how this works."
+    },
+    {
+      "id": 2,
+      "title": "Thoughts on Learning JS",
+      "author": "Lee K.",
+      "image": "https://via.placeholder.com/600x300",
+      "date": "2024-01-05",
+      "content": "JavaScript is confusing at first but it's getting better."
+    },
+    {
+      "id": 3,
+      "title": "Debugging is a Skill",
+      "author": "Lee K.",
+      "image": "https://via.placeholder.com/600x300",
+      "date": "2024-01-08",
+      "content": "Spent 30 minutes fixing a missing semicolon. Never again!"
+    }
+  ]
+}

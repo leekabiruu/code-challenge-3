@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "title": "CLB",
+      "author": "Drake",
+      "content": "Album",
+      "date": "2025-06-30",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
